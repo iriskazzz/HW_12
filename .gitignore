@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/build/classes/java/test/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Allure ###
+.allure
+
+### Gradle ###
+.gradle
